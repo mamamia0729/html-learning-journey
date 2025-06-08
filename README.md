@@ -1,6 +1,3 @@
-# html-learning-journey
-A simple HTML project demonstrating basic concepts
-
 # My HTML Learning Journey
 
 This repository contains my very first HTML project, designed to showcase basic concepts I've learned. It's a simple, unstyled web page focused purely on HTML structure.
